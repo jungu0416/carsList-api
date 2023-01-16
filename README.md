@@ -2,7 +2,7 @@
 
 DB + Redis
 
-JPA + Spring Security + JWT + AOP
+JAVA 11 + JPA + Spring Security + JWT + AOP
 
 MSA 
 
